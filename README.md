@@ -43,12 +43,9 @@ I'm a Computer Engineering student with a strong passion for **Cybersecurity**, 
 
 ---
 
-### 📊 GitHub Stats
-
+### 🔥 Contribution Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkeserce&theme=tokyonight&hide_border=true" alt="streak stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=berkeserce&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
 </div>
 
 ---
